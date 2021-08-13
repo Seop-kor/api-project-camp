@@ -1,5 +1,5 @@
 $(function(){
-
+  console.log("gg");
   // header menu button active
   $(".btn").click(function(){
     $(this).toggleClass('active');
